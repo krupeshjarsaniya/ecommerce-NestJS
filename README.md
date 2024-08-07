@@ -1,4 +1,4 @@
-# ecommers-NestJS
+# e-commerce NestJS
 
 # Step : 1
 Create database and import SQL file available in root directory.
